@@ -1,6 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Ihjz_szg)
 # Hecho por: Santiago Bazzani Rincon
-# Link despliegue: parcial-ii-santibari-5e5k.vercel.app
+# Link despliegue: parcial-ii-santibari-hbtm.vercel.app
+
+# parcial-ii-santibari-hbtm-i09t4ihyh-santiago-bazzanis-projects.vercel.app
 
 # Consultemos el clima
 
